@@ -14,6 +14,6 @@ SwinIR/
 ESRGAN/
 GFPGAN/
 RealESRGAN/
-*HotlineStyle_v1
+Lora/HotlineStyle_v1.safetensors
 Lora/moominv12.safetensors
 Lora/WRAL.safetensors
