@@ -1,0 +1,16 @@
+
+Stable-diffusion/*.ckpt
+Stable-diffusion/*.safetensors
+Stable-diffusion/*.yaml
+VAE/
+torch_deepdanbooru/
+VAE-approx/
+BLIP/
+Codeformer/
+deepbooru/
+midas/
+SwinIR/
+*.txt
+ESRGAN/
+GFPGAN/
+RealESRGAN/
